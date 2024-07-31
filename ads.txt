@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-google.com, pub-7638179208167215, DIRECT, f08c47fec0942fa0
-=======
-<<<<<<< HEAD
->>>>>>> 89a0102437376e714440f13016d4a7420709cff6
 #WG ADX			
 google.com, pub-4529402052683454, RESELLER, f08c47fec0942fa0	
 wgplayer.com, WGA5635789102, DIRECT
